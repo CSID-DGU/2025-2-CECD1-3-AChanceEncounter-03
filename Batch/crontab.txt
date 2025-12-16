@@ -1,0 +1,1 @@
+30 02 * * * /home/batchjobs/test/batch_project/run_batch.sh >> /home/batchjobs/test/batch_project/batch_log/batch.log 2>&1
